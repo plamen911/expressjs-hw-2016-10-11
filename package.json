@@ -1,0 +1,22 @@
+{
+  "name": "hw-2016-10-11",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.2.x",
+    "npm": "3.9.x"
+  },
+  "description": "MongoDB Exercises",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "2.2.10",
+    "mongoose": "4.6.3"
+  },
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "scripts": {
+    "test": "standard && node app.js"
+  },
+  "author": "Plamen Markov",
+  "license": "ISC"
+}
