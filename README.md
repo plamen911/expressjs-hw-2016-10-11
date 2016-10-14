@@ -2,6 +2,8 @@
 
     MongoDB Exercises
 
+[Express.js Development - MongoDB and Mongoose - октомври 2016](https://youtu.be/hKB5WBCBSaI)
+
 ### Problem 1. Install MondoDB and Mongoose
 Create a JavaScript file ready to use MongoDB. Use MongoDB on its default port – 27017.
 
